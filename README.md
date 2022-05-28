@@ -13,3 +13,6 @@
 - The software suppports tracking user movement and provide navigation just in time.
 - Both visual and audio feedback (notification) are provided.
 - We have warning, instruction (giving tips), and navigation (including correction) functions.
+
+## Slides Link
+[Link](https://docs.google.com/presentation/d/1owkUnGaff20H45DOr6p4lPeKmdNuIRInWyszojVcpcU/edit?usp=sharing)
