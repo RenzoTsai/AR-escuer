@@ -1,7 +1,7 @@
 # Group6: AR²escuer
 
 ## Project Description (max 3 lines)
-- This is a software to help users evacuate from fire disaster. This software using AR glass to provide stable and reliable guidance to users compared with current physical exit signs. And it also provides users with intuitive and multimodal guidance to ensure deliver the information clearly and accurately. For different person, we hope to optimize the route for them.
+- This is a software to help users evacuate from fire disaster. This software using AR glass to provide stable and reliable guidance to users compared with current physical exit signs. And it also provides users with intuitive and multimodal guidance to ensure delivering the information clearly and accurately. For different people, we hope to optimize the route for them.
 
 ## Quick Start Guide (how to run the codes)
 - Setup the code with Unity 2019.
