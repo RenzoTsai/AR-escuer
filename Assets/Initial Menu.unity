@@ -959,7 +959,7 @@ MonoBehaviour:
   timer: {fileID: 0}
   state: 0
   worldMap: {fileID: 778362591}
-  delayForRecording: 30
+  delayForRecording: 0
 --- !u!4 &166620679
 Transform:
   m_ObjectHideFlags: 0
