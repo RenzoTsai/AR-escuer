@@ -1,4 +1,4 @@
-# AR²escuer - Best Enginnering Award in The Summer Bootcamp of Future Interaction for Smart Glasses
+# AR²escuer - [Best Enginnering Award in The Summer Bootcamp of Future Interaction for Smart Glasses](https://sites.google.com/comp.nus.edu.sg/bootcamp/awards?authuser=0#h.dv987at8urkj)
 
 ## Project Description
 - This is a software to help users evacuate from fire disaster. This software using AR glass to provide stable and reliable guidance to users compared with current physical exit signs. And it also provides users with intuitive and multimodal guidance to ensure delivering the information clearly and accurately. For different people, we hope to optimize the route for them.
